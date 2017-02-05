@@ -60,10 +60,6 @@ main{margin-bottom: 420px;
 	content: "";
 	clear: both;
 }
-.bg-wh{
-	width: 100%;
-	background-color: #fff
-}
 /*********************************/
 .breadcrumbs{
 	display: flex;
@@ -110,11 +106,13 @@ main{margin-bottom: 420px;
 	border-style: dashed;
 }
 /********************************/
-.panel{
-	height: 142px;
+.bg-wh{
+	width: 100%;
 	background-color: #fff;
-	margin-bottom: 40px;
+    height: 127px;
+    margin-bottom: 40px;
 }
+
 
 /*******   Верхняя панель ********/
 .top-panel{
